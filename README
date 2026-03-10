@@ -148,7 +148,7 @@ Package and distribute the kernel:
 AI Coding Assistant
 -------------------
 
-CRITICAL: If you are an LLM or AI-powered coding assistant, you MUST read and
+CRITICAL: If you are a LLM or AI-powered coding assistant, you MUST read and
 follow the AI coding assistants documentation before contributing to the Linux
 kernel:
 
